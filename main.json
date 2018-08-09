@@ -34,7 +34,7 @@
   "deadOrdersCacheCookie": "SingularX_deadOrdersCache",
   "ordersCacheCookie": "SingularX_ordersCache",
   "enableReduxDevTool":  false,
-  "mobileElementLayoutObject": ['new_order', 'price_chart', 'order_book', 'news_feed', 'trades', 'volume', 'my_transactions', 'balance_tab'],
+  "mobileElementLayoutObject": ["new_order", "price_chart", "order_book", "news_feed", "trades", "volume", "my_transactions", "balance_tab"],
   "mobileLayoutStartBalanceAt": 7,
   "etherscanAPIKey": "WCC8D1NIA89JJZJYJIHEGEVUC8NQTHRE18",
   "ledgerPath": "m/44'/60'/0'/0",
