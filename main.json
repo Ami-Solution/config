@@ -25,7 +25,7 @@
   "gasTrade": 250000,
   "gasOrder": 250000,
   "gasTradeRate": 0.003,
-  "ordersOnchain": false,
+  "ordersOnchain": true,
   "orderBookSize": 200,
   "orderLimitPerPerson":40,
   "apiServer": "https://cache.singularx.com",
